@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meenah-gurl
-- 👀 I'm a Frontend Developer / UI/UX designer
+- 👀 I'm a Frontend Developer / Project Manager
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on different open source platform
 - 📫 How to reach me ...
